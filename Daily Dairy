@@ -1,0 +1,121 @@
+
+# 🔐 45-Day Cybersecurity Training Diary
+
+## 📌 About This Repository
+
+This repository documents my 45-day cybersecurity training journey. During this training, I focused on understanding computer networking fundamentals, learning Linux commands, exploring network reconnaissance, and developing a foundation in cybersecurity.
+
+**Training Domain:** Cybersecurity  
+**Duration:** 45 Days  
+**Primary Topics:** Networking, Linux, Network Scanning, and Cybersecurity Fundamentals  
+**Tools:** Linux, Terminal, Nmap, and VirtualBox (where used)
+
+---
+
+## 📅 Week 1: Introduction to Networking
+
+| Day | Topics Covered | Learning Outcomes |
+|---|---|---|
+| Day 1 | Introduction to Cybersecurity | Learned the fundamentals of cybersecurity and its importance. |
+| Day 2 | Computer Networking Basics | Understood how computers communicate over a network. |
+| Day 3 | OSI Model | Studied the seven layers of the OSI model. |
+| Day 4 | TCP/IP Model | Learned the layers of the TCP/IP model and their functions. |
+| Day 5 | IP Addressing | Studied IPv4 addresses and their structure. |
+| Day 6 | Public and Private IP Addresses | Learned the difference between public and private IP addresses. |
+| Day 7 | Networking Revision | Revised networking fundamentals and reviewed the concepts studied during the week. |
+
+## 📅 Week 2: Networking Protocols
+
+| Day | Topics Covered | Learning Outcomes |
+|---|---|---|
+| Day 8 | MAC Addresses | Learned how MAC addresses identify network interfaces. |
+| Day 9 | Subnet Masks | Understood the purpose of subnet masks in IP networking. |
+| Day 10 | DNS | Learned how DNS translates domain names into IP addresses. |
+| Day 11 | DHCP | Studied automatic IP address allocation using DHCP. |
+| Day 12 | HTTP and HTTPS | Understood how web communication works and the role of HTTPS. |
+| Day 13 | TCP and UDP | Compared connection-oriented TCP with connectionless UDP. |
+| Day 14 | Common Network Ports | Studied common service ports and their associated protocols. |
+
+## 📅 Week 3: Network Troubleshooting and Security
+
+| Day | Topics Covered | Learning Outcomes |
+|---|---|---|
+| Day 15 | ICMP and Ping | Learned how ICMP and ping help with basic network diagnostics. |
+| Day 16 | Traceroute | Studied how traceroute helps identify network paths. |
+| Day 17 | ARP | Learned how ARP maps IPv4 addresses to MAC addresses on a local network. |
+| Day 18 | Routing Fundamentals | Understood the role of routers and routing tables. |
+| Day 19 | Firewalls | Studied how firewalls filter network traffic. |
+| Day 20 | VPN Fundamentals | Learned the basic purpose of VPNs and encrypted network tunnels. |
+| Day 21 | Networking Practical Revision | Reviewed networking concepts and practiced basic troubleshooting commands where available. |
+
+## 📅 Week 4: Linux Fundamentals
+
+| Day | Topics Covered | Learning Outcomes |
+|---|---|---|
+| Day 22 | Introduction to Linux | Learned about Linux distributions and their use in cybersecurity. |
+| Day 23 | Linux File System | Explored the Linux directory structure. |
+| Day 24 | Navigation Commands | Practiced `pwd`, `ls`, and `cd`. |
+| Day 25 | File and Directory Management | Practiced `mkdir`, `touch`, `cp`, and `mv`. |
+| Day 26 | Removing Files and Directories | Learned how to use `rm` and `rmdir` carefully. |
+| Day 27 | Reading File Contents | Practiced `cat`, `less`, `head`, and `tail`. |
+| Day 28 | Searching Files and Text | Explored `find` and `grep` for locating files and text. |
+
+## 📅 Week 5: Linux Administration and Networking Commands
+
+| Day | Topics Covered | Learning Outcomes |
+|---|---|---|
+| Day 29 | Linux Permissions | Studied read, write, and execute permissions. |
+| Day 30 | `chmod` and `chown` | Learned how to modify file permissions and ownership. |
+| Day 31 | Users and Groups | Explored basic user and group management concepts. |
+| Day 32 | Processes | Practiced commands such as `ps` and `top`. |
+| Day 33 | System Information | Used commands such as `uname` and `whoami`. |
+| Day 34 | Linux Network Commands | Explored `ip`, `ping`, and available network diagnostic tools. |
+| Day 35 | Package Management | Learned how package managers install and update software. |
+
+## 📅 Week 6: Cybersecurity Tools and Practical Learning
+
+| Day | Topics Covered | Learning Outcomes |
+|---|---|---|
+| Day 36 | Introduction to Nmap | Learned the purpose of Nmap in network discovery and security assessment. |
+| Day 37 | Installing Nmap | Practiced installing and verifying Nmap in the training environment, if available. |
+| Day 38 | Nmap Host Discovery | Studied methods for identifying active hosts on an authorized network. |
+| Day 39 | Nmap Port Scanning | Learned how port scanning identifies accessible network services. |
+| Day 40 | Nmap Service Detection | Explored how Nmap can identify services and versions when permitted. |
+| Day 41 | Understanding Scan Results | Learned how to interpret open, closed, and filtered port states. |
+| Day 42 | Basic Network Reconnaissance | Reviewed the reconnaissance process and the importance of authorization. |
+
+## 📅 Final 3 Days: Revision and Documentation
+
+| Day | Topics Covered | Learning Outcomes |
+|---|---|---|
+| Day 43 | Cybersecurity Revision | Revised networking, Linux, and basic reconnaissance concepts. |
+| Day 44 | Practical Exercises | Practiced relevant commands and reviewed the results in the training environment. |
+| Day 45 | Documentation and Learning Review | Organized training notes, summarized key concepts, and documented the learning journey. |
+
+---
+
+## 🛠️ Key Skills Developed
+
+- Computer networking fundamentals
+- OSI and TCP/IP models
+- IPv4 addressing and common network protocols
+- DNS, DHCP, TCP, UDP, HTTP, and HTTPS
+- Basic Linux navigation and file management
+- Linux permissions and process management
+- Network troubleshooting
+- Introduction to Nmap and network reconnaissance
+- Technical documentation and cybersecurity awareness
+
+## 🎯 Learning Outcomes
+
+This training helped me build a foundation in computer networking and Linux administration, which are important for further learning in cybersecurity.
+
+It also introduced me to network reconnaissance and the importance of analyzing network information responsibly.
+
+## 🔒 Ethical Practice
+
+All security-related exercises should be performed only in authorized lab environments or on systems for which permission has been granted.
+
+## 📌 Note
+
+This diary is a structured training template. The daily entries should be adjusted to match the actual topics covered, exercises completed, and tools used during the training.
